@@ -1,0 +1,19 @@
+[
+    {
+      "timestamp": "2025-04-13T12:34:56",
+      "chat_request": {
+        "model": "deepseek-r1-distill-llama-70b",
+        "messages": [
+          {
+            "role": "user",
+            "content": "¿Cuál es el clima hoy?"
+          },
+          {
+            "role": "assistant",
+            "content": "Hoy estará soleado..."
+          }
+        ]
+      }
+    }
+  ]
+  
